@@ -100,3 +100,6 @@ li button {
   font-size: 18px;
   cursor: pointer;
 }
+li button:hover {
+  color: #b30000;
+}
