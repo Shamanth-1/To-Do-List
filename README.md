@@ -29,7 +29,7 @@ A colorful and user-friendly TO-DO List application made with HTML, CSS, and Jav
 - Clone this repository
 ```
 bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/Shamanth-1/To-Do-List.git
 cd todo-list-app
 ```
 - Open ```index.html``` in your browser
