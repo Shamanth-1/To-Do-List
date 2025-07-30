@@ -103,3 +103,9 @@ li button {
 li button:hover {
   color: #b30000;
 }
+li.completed {
+  text-decoration: line-through;
+  color: #999;
+  background: #e0e0e0;
+}
+
