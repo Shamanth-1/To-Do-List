@@ -62,3 +62,8 @@ function updateLocalStorage() {
   }));
   localStorage.setItem("tasks", JSON.stringify(tasks));
 }
+li.addEventListener("click", () => {
+  li.classList.toggle("completed");
+  updateLocalStorage();
+});
+
