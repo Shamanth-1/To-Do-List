@@ -1,6 +1,6 @@
 # To-Do List
 
-A colorful and user-friendly TO-DO List application made with HTML, CSS, and JavaScript.
+<h5>A colorful and user-friendly TO-DO List application made with HTML, CSS, and JavaScript.<h5>
 <div align="center"> </div>
 
 ## 🚀 Features
